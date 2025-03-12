@@ -1,0 +1,108 @@
+"use client";
+import { useEffect } from 'react';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import Slider, { CustomArrowProps } from 'react-slick'; // Import CustomArrowProps
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
+import { GoArrowDownLeft, GoArrowUpRight } from "react-icons/go";
+
+// Data type definition
+interface TestimonialProps {
+    name: string;
+    designation: string;
+    feedback: string;
+}
+
+const Testimonial = ({ name, designation, feedback }: TestimonialProps) => (
+    <div className="flex flex-col md:flex-row text-white rounded-lg overflow-hidden">
+        <div className="md:w-11/12 w-full  flex flex-col justify-center">
+            <p className="md:text-3xl text-2xl mt-6">{feedback}</p>
+            <h3 className="text-2xl font-bold mt-20 dm-sans">{name}</h3>
+            <p className="text-md text-gray-300">{designation}</p>
+        </div>
+    </div>
+);
+
+// Custom Arrow Components with TypeScript types
+const CustomPrevArrow = (props: CustomArrowProps) => {
+    const { onClick } = props;
+    return (
+        <button
+            onClick={onClick}
+            className="absolute bottom-0 right-20 z-10 p-2 text-slate-400 rounded-full hover:text-green-700 transition-colors"
+        >
+            <GoArrowDownLeft size={22}/>
+        </button>
+    );
+};
+
+const CustomNextArrow = (props: CustomArrowProps) => {
+    const { onClick } = props;
+    return (
+        <button
+            onClick={onClick}
+            className="absolute bottom-0 right-10 z-10 p-2  text-white rounded-full hover:text-green-700 transition-colors"
+        >
+            <GoArrowUpRight size={22}/>
+        </button>
+    );
+};
+
+const TestimonialsSlider: React.FC = () => {
+    const testimonials: TestimonialProps[] = [
+        { name: "Aadidev Gabbar", designation: "Managing Director, Grabitx", feedback: "Working with NextSpace was an absolute pleasure. Their team truly listened to our needs and " },
+        { name: "John Doe", designation: "CEO, Example Corp", feedback: "The team at NextSpace is incredibly talented and professional. They delivered beyond our expectations." },
+        { name: "Jane Smith", designation: "Founder, Creative Solutions", feedback: "We are thrilled with the results. NextSpace made the entire process seamless and enjoyable." }
+    ];
+
+    const settings = {
+        dots: false,
+        infinite: true,
+        speed: 1000,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 4000,
+        arrows: true,
+        prevArrow: <CustomPrevArrow />, 
+        nextArrow: <CustomNextArrow />, 
+        adaptiveHeight: true,
+        pauseOnHover: true, 
+    };
+
+    // Initialize AOS (Animate On Scroll)
+    useEffect(() => {
+        AOS.init({
+            duration: 1000,
+            once: true,
+        });
+    }, []);
+
+    return (
+        <>
+            <div className="bg-green-dark flex justify-between">
+                <div className="md:w-3/5 w-full flex flex-col md:p-32 p-5">
+                    <h6 className="text-sm uppercase tracking-wide">TESTIMONIALS</h6>
+                    <h1 className="md:text-5xl text-4xl md:my-8 my-4">Client Stories</h1>
+                    <div className="relative">
+                        <Slider {...settings} className="w-full max-w-5xl mx-auto">
+                            {testimonials.map((testimonial, index) => (
+                                <Testimonial key={index} {...testimonial} />
+                            ))}
+                        </Slider>
+                    </div>
+                </div>
+                <div className="flex flex-col bg-red-800">
+                    <img
+                        src="https://framerusercontent.com/images/dv3VHAYihB9i5sybx6WR30PHpY.png?scale-down-to=1024"
+                        alt="Client Image"
+                        className="object-cover h-full w-full"
+                    />
+                </div>
+            </div>
+        </>
+    );
+};
+
+export default TestimonialsSlider;
