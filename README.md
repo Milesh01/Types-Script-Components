@@ -8,5 +8,9 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap nextjs ka use karna lik
 #1. Navigation bar // Mobile responsive
 ![image](https://github.com/user-attachments/assets/c07d088c-957e-470f-9f18-d258bbbd7bc6)
 
-#2. Testimonials Components
+#2. Testimonials Components // Full responsive
 ![image](https://github.com/user-attachments/assets/387adf37-54ef-4cb2-880f-2e0450db5396)
+
+#3. FAQs Components // Full responsive
+![image](https://github.com/user-attachments/assets/1dbb7647-75b1-4ba9-9eb7-f6c87bd4bba8)
+
