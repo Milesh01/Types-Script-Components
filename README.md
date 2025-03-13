@@ -3,7 +3,7 @@
 Aap in sabhi packages ko ek hi command me install karne ke liye yeh command use kar sakte hain:  
 npm install react-icons react-slick slick-carousel aos framer-motion
 
-Note: Main Direct img ka use kiya aap yesa mat karna aap nextjs ka use karna like <Image/>
+Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan dena, like <Image/>
 
 #1. Navigation bar // Mobile responsive
 ![image](https://github.com/user-attachments/assets/c07d088c-957e-470f-9f18-d258bbbd7bc6)
