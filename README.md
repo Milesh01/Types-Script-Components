@@ -14,11 +14,15 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan d
 #3. FAQs Components // Full responsive
 ![image](https://github.com/user-attachments/assets/1dbb7647-75b1-4ba9-9eb7-f6c87bd4bba8)
 
-#4 Grid Views components
+#4. Grid Views components
 ![image](https://github.com/user-attachments/assets/cc242064-94e3-4ca7-857e-159423036d8a)
 
-#NotFound compoments
+#5. NotFound compoments
 ![image](https://github.com/user-attachments/assets/1fe32ca6-ca3b-448f-a242-da4838e5863c)
+
+#6. Active content images change full responsive
+![image](https://github.com/user-attachments/assets/ef22bc7d-600e-4706-89e3-50b522dd377d)
+
 
 
 
