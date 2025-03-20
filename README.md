@@ -23,6 +23,9 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan d
 #6. Active content images change full responsive
 ![image](https://github.com/user-attachments/assets/ef22bc7d-600e-4706-89e3-50b522dd377d)
 
+#7. Image change on clicks
+![image](https://github.com/user-attachments/assets/a8883a2a-d9b2-4461-a1ba-92294d1e1f6d)
+
 
 
 
