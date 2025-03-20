@@ -26,6 +26,10 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan d
 #7. Image change on clicks
 ![image](https://github.com/user-attachments/assets/a8883a2a-d9b2-4461-a1ba-92294d1e1f6d)
 
+#8. Image Overlay design full responsive
+![image](https://github.com/user-attachments/assets/d60b569f-ac26-42da-baac-177586b2a878)
+
+
 
 
 
