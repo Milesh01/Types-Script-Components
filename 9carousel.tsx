@@ -36,16 +36,16 @@ const SuccessStories = () => {
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 3000,
-        centerMode: true,
-        centerPadding: "15%",
+        centerMode: true, //center karne ke liye 
+        centerPadding: "15%", // padding kam or jyada karne ke liye according to uuuuuuu
         responsive: [
           {
             breakpoint: 1024,
-            settings: { slidesToShow: 2, centerPadding: "5%" },
+            settings: { slidesToShow: 2, centerPadding: "5%" }, //Tablet View ke liye
           },
           {
             breakpoint: 768,
-            settings: { slidesToShow: 1, centerPadding: "0" },
+            settings: { slidesToShow: 1, centerPadding: "0" }, //Mobile view ke liye
           },
         ],
       };      
