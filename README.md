@@ -5,7 +5,8 @@ I have installed many packages; you can install them as per your requirement.
 
 npm install react-icons react-slick slick-carousel aos framer-motion
 
-Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan dena, like <Image/> | Baki aap developer hai samjh hi gye honge
+**Note:** I have used direct `<img>` tags, but you should avoid that and focus on TypeScript, like using `<Image />`.   
+Well, you're a developer, so you already get it! 😊
 
 #1. Navigation bar // Mobile responsive
 ![image](https://github.com/user-attachments/assets/c07d088c-957e-470f-9f18-d258bbbd7bc6)
