@@ -29,6 +29,10 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan d
 #8. Image Overlay design full responsive
 ![image](https://github.com/user-attachments/assets/d60b569f-ac26-42da-baac-177586b2a878)
 
+#9. Crousel design full screen component full responsive
+![image](https://github.com/user-attachments/assets/6155722d-8773-4887-aeda-6655cf335cdd)
+
+
 
 
 
