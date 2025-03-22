@@ -1,6 +1,7 @@
 # Types Script Components
 Type Script, Tailwind Css
-Aap in sabhi packages ko ek hi command me install karne ke liye yeh command use kar sakte hain:  
+Aap in sabhi packages ko ek hi command me install karne ke liye yeh command use kar sakte hain: 
+maine bahut sare pakeges install kiya hai aapne aapne aawaskta aanur install kar sakte hai.
 npm install react-icons react-slick slick-carousel aos framer-motion
 
 Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan dena, like <Image/> | Baki aap developer hai samjh hi gye honge
@@ -31,6 +32,10 @@ Note: Main Direct img ka use kiya aap yesa mat karna aap type-script ka dhayan d
 
 #9. Crousel design full screen component full responsive
 ![image](https://github.com/user-attachments/assets/6155722d-8773-4887-aeda-6655cf335cdd)
+
+#10. Card design full screen component full responsive
+![image](https://github.com/user-attachments/assets/c03a1370-7cfd-40ab-9de9-1828644aa5a9)
+
 
 
 
