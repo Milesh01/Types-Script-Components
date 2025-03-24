@@ -38,6 +38,10 @@ Well, you're a developer, so you already get it! 😊
 #10. Card design full screen component full responsive
 ![image](https://github.com/user-attachments/assets/c03a1370-7cfd-40ab-9de9-1828644aa5a9)
 
+#11. Slider component 
+![image](https://github.com/user-attachments/assets/ec17145c-5134-4851-9517-b46b25b9b0c6)
+
+
 
 
 
