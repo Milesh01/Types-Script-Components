@@ -44,6 +44,9 @@ Well, you're a developer, so you already get it! 😊😁
 #12. Smoke Effect or blur effect component full responsive
 ![image](https://github.com/user-attachments/assets/70e43bdc-88c3-4db0-bfd0-a37dc6b078ce)
 
+#13. 
+![image](https://github.com/user-attachments/assets/9f20157d-bdf1-42b9-8198-cc328cbd5b48)
+
 
 
 
