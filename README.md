@@ -41,6 +41,10 @@ Well, you're a developer, so you already get it! 😊😁
 #11. Slider component 
 ![image](https://github.com/user-attachments/assets/ec17145c-5134-4851-9517-b46b25b9b0c6)
 
+#12. Smoke Effect or blur effect component full responsive
+![image](https://github.com/user-attachments/assets/70e43bdc-88c3-4db0-bfd0-a37dc6b078ce)
+
+
 
 
 
