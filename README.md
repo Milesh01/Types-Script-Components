@@ -47,6 +47,10 @@ Well, you're a developer, so you already get it! 😊😁
 #13.  name ruk yaad kart haw
 ![image](https://github.com/user-attachments/assets/9f20157d-bdf1-42b9-8198-cc328cbd5b48)
 
+#14. Progress Bar
+![image](https://github.com/user-attachments/assets/6e896ef9-35d8-4cd7-b27e-b37a4ea4de35)
+
+
 
 
 
