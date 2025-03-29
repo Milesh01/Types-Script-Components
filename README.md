@@ -50,7 +50,7 @@ Well, you're a developer, so you already get it! 😊😁
 #14. Progress Bar
 ![image](https://github.com/user-attachments/assets/6e896ef9-35d8-4cd7-b27e-b37a4ea4de35)
 
-#15
+#15 whay
 ![image](https://github.com/user-attachments/assets/49ed7005-5136-49c0-bee3-2f6fc9dbeda9)
 
 
