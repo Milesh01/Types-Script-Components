@@ -53,6 +53,9 @@ Well, you're a developer, so you already get it! 😊😁
 #15 whay
 ![image](https://github.com/user-attachments/assets/49ed7005-5136-49c0-bee3-2f6fc9dbeda9)
 
+#16 Flex Shrink Components 
+![image](https://github.com/user-attachments/assets/0e931f49-aaad-4f45-b235-4afbe62ae2d4)
+
 
 
 
