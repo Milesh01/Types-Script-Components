@@ -56,6 +56,10 @@ Well, you're a developer, so you already get it! 😊😁 |
 #16 Flex Shrink Components 
 ![image](https://github.com/user-attachments/assets/0e931f49-aaad-4f45-b235-4afbe62ae2d4)
 
+#17 Sticky Heading Responsive
+![image](https://github.com/user-attachments/assets/82a316d7-7996-4cab-9c5d-9c5a694c4826)
+
+
 
 
 
