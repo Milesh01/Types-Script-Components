@@ -1,5 +1,5 @@
 # TypeScript Components  
-TypeScript, Tailwind CSS  
+TypeScript, Tailwind CSS  mkilj
 You can use this command to install all these packages in a single command:  
 I have installed many packages; you can install them as per your requirement.
 
