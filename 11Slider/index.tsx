@@ -1,4 +1,4 @@
-//image ke liye aapna config jarur change kar lena
+//Kya bhiya //image ke liye aapna config jarur change kar lena
 import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
