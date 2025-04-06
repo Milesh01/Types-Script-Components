@@ -1,4 +1,4 @@
-# Mordern Cards
+# Mordern Cards responsive 
 
 #Card 1st
 ![image](https://github.com/user-attachments/assets/a4545cef-b41e-49ba-800f-abdec0720c7f)
