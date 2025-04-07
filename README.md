@@ -59,6 +59,9 @@ Well, you're a developer, so you already get it! 😊😁 |
 #17 Sticky Heading Responsive
 ![image](https://github.com/user-attachments/assets/82a316d7-7996-4cab-9c5d-9c5a694c4826)
 
+#18Accordion Full responsive
+![image](https://github.com/user-attachments/assets/f1856dad-bc5a-4941-987f-dd588cb92308)
+
 
 
 
