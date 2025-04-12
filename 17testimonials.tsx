@@ -49,7 +49,7 @@ const Testimonials: React.FC = () => {
     <section className="bg-gray-800 rounded-lg text-white py-16">
         <div className="container  mx-auto grid grid-cols-2  px-4 md:px-16">
         <div className="relative lg:col-span-1 col-span-2">
-        <div className="sticky top-10 p-5">
+        <div className="sticky top-10 p-5"> //position sticky 
             <span>Testimonials</span>
         <h2 className="text-3xl md:text-4xl my-4">What Our Valuable Customers Said</h2>
         <p className="text-gray-300 mt-2 lg:max-w-96">
