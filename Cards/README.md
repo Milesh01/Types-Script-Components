@@ -15,5 +15,5 @@
 #Card 5th Counting NUmbering
 ![image](https://github.com/user-attachments/assets/1608e6f9-3972-46c7-b516-cc5c10803926)
 
-#Card 6th 
+#Card 6th Sticky Aside bar
 ![image](https://github.com/user-attachments/assets/21c89828-0e32-4d19-8601-2b726531cf51)
