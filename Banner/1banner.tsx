@@ -52,3 +52,11 @@ const Banner = ({ title, description, imageUrl }: BannerProps) => {
 };
 
 export default Banner;
+
+
+  {/* Banner Section */}
+     {/*   <Banner
+      title="Our Portfolio"
+      description="Each project is a story captured in frames — crafted with passion, light, and true moments."
+      imageUrl="https://res.cloudinary.com/ddgbehuxg/image/upload/v1744198089/d3_ourkxr.jpg"
+    /> */}
