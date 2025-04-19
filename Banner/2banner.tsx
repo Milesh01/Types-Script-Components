@@ -62,3 +62,15 @@ const DynamicBanner: React.FC<BannerProps> = ({
 };
 
 export default DynamicBanner;
+
+
+
+///use 
+  <DynamicBanner
+  imageUrl="https://res.cloudinary.com/ddgbehuxg/image/upload/v1744693738/ConsultationSection_e8salw.avif"
+  altText="About Banner"
+  breadcrumbs={[
+    { label: "Home", href: "/" },
+    { label: "Project Details", href: "/project-details" }
+  ]} title="Project Details"
+/>
