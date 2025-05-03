@@ -39,6 +39,10 @@
 #Card13th
 ![image](https://github.com/user-attachments/assets/8088c8f6-3f49-40d9-aad1-403bbcf1e722)
 
+#Card14th slider not add plzzz don't mine.
+![image](https://github.com/user-attachments/assets/223120af-04a2-4eed-8693-4cb9ec7c949f)
+
+
 
 
 
