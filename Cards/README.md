@@ -1,4 +1,4 @@
-# Mordern Cards or full responsive change to your according code 01
+# Mordern Cards or full responsive change to your according code
 
 #Card 1st
 ![image](https://github.com/user-attachments/assets/a4545cef-b41e-49ba-800f-abdec0720c7f)
@@ -34,9 +34,10 @@
 ![image](https://github.com/user-attachments/assets/9120da71-5cea-4041-b412-e5952f467898)
 
 #Card12th
-
 ![image](https://github.com/user-attachments/assets/957b77c7-a5e8-4482-806a-81385f14cb7c)
 
+#Card13th
+![image](https://github.com/user-attachments/assets/8088c8f6-3f49-40d9-aad1-403bbcf1e722)
 
 
 
