@@ -45,8 +45,13 @@
 #Card15WhyChooseUs
 ![image](https://github.com/user-attachments/assets/d17d8a23-4493-4ad9-84b5-2d9c794a4c32)
 
-#Card15Doctor Section
+#Card16Doctor Section
 ![image](https://github.com/user-attachments/assets/89bc6bb4-ad42-40ea-b768-7eb3966e57ce)
+
+#Card17Department 
+![image](https://github.com/user-attachments/assets/a1b881bd-19b8-4f81-972f-bc5dc1a129d0)
+
+
 
 
 
