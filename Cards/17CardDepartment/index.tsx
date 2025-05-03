@@ -60,7 +60,8 @@ const departments = [
 const DepartmentsSection = () => {
   return (
     <section className="bg-blue-100 py-16 px-4 md:px-12 mx-5 rounded-xl">
-      <div className="text-center mb-12 max-w-2xl mx-auto">
+    <div className="max-w-7xl mx-auto">
+    <div className=" text-center mb-12 max-w-2xl mx-auto">
         <p className="text-md text-gray-900 font-semibold mb-2">Explore Medical Department</p>
         <h2 className="text-2xl md:text-4xl font-bold leading-tight text-gray-800">
           Providing Excellence Across Medical Fields Departments for <br className="hidden sm:block" />
@@ -107,6 +108,7 @@ const DepartmentsSection = () => {
       </div>
         </div>
       </div>
+    </div>
     </section>
   );
 };
