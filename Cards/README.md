@@ -64,6 +64,8 @@
 #Card21Design Box
 ![image](https://github.com/user-attachments/assets/cf87785e-bf99-4042-93e8-69f86adf171f)
 
+#Card21Our mission And Vision
+![image](https://github.com/user-attachments/assets/3ee67225-25dd-479e-bbb6-6179cd9e52a3)
 
 
 
